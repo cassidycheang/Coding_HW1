@@ -1,0 +1,101 @@
+/* Header */
+.navBar{
+  height: 100px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.logo{
+  width: 66px;
+  padding-left: 100px;
+}
+h2{
+  color: #f5f094;
+  font-size: 18pt;
+  padding-left: 40px;
+  font-family: 'Nunito Sans regular', sans-serif;
+}
+/* .h2-two{
+  color: #f5f094;
+  font-size: 18pt;
+  margin-top: -20px;
+  padding-left: 40px;
+  padding-bottom: 30px;
+  font-family: 'Nunito Sans regular', sans-serif;
+} */
+.inline-block{
+  display: inline-block;
+  background-color: black;
+  font-size: 12pt;
+  color: white;
+  font-family: 'Nunito Sans light', sans-serif;
+  padding-top: 30px;
+  padding-left: 20px;
+  margin-left: 40px;
+}
+.icon{
+  background: transparent;
+  border: 0;
+}
+.header-right{
+  margin-top: 20px;
+  padding-left: 80px;
+
+}
+
+/* Ribbon */
+.ribbon{
+  background-color: #FFCF5E;
+  padding: 0;
+  height: 25px;
+}
+.ribbon-text{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: small;
+  margin: 3px 0px;
+  width: 80%;
+  float: left;
+}
+.donate{
+  background-color: red;
+  color: white;
+  display: inline-block;
+  border-radius: 25px;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 200px;
+  margin-top: 4px;
+}
+/* Hero Banner */
+.hero{
+  width: 100%;
+  height: 15%;
+  z-index: 1;
+}
+.herotext{
+  font-size: 40pt;
+  color:white;
+  font-weight: bold;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+  font-family: 'Nunito Sans regular', sans-serif;
+}
+.heroposition{
+  position: relative;
+  width: 100%;
+}
+
+/* Footer */
+.footer{
+  height: 100px;
+  background-color: black;
+}
+.footer-right{
+  position: relative;
+  float: right;
+  margin-top: 35px;
+  margin-right: 100px;
+}
