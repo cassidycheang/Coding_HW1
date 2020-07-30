@@ -39,7 +39,7 @@ h2{
 }
 .header-right{
   margin-top: 20px;
-  padding-left: 80px;
+  padding-left: 90px;
 
 }
 
@@ -75,7 +75,7 @@ h2{
   z-index: 1;
 }
 .herotext{
-  font-size: 40pt;
+  font-size: 45pt;
   color:white;
   font-weight: bold;
   position: absolute;
@@ -92,6 +92,14 @@ h2{
 .footer{
   height: 100px;
   background-color: black;
+}
+h4{
+  float: left;
+  font-size: 8pt;
+  color: white;
+  font-family: 'Nunito Sans', sans-serif;
+  padding-top: 25px;
+  padding-left: 100px;
 }
 .footer-right{
   position: relative;
